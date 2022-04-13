@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 06 12:55:25 IST 2022","Wed Apr 06 12:55:25 IST 2022","105","Suite","Test","allureReports.Tests","allureReports.Tests","logoPresence","Verify Logo presence on Home Page","Verify Logo presence on Home Page........"
+"broken","Wed Apr 06 12:55:25 IST 2022","Wed Apr 06 12:55:26 IST 2022","907","Suite","Test","allureReports.Tests","allureReports.Tests","loginTest","Verify login","Verify login with Valid Credentials........"
+"skipped","Wed Apr 06 12:55:26 IST 2022","Wed Apr 06 12:55:26 IST 2022","0","Suite","Test","allureReports.Tests","allureReports.Tests","registrationTest","Verify user Registration","Verify user Registration........"

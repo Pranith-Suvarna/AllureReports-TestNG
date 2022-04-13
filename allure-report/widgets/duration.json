@@ -1,0 +1,31 @@
+[ {
+  "uid" : "5ce5d00c2d300a2b",
+  "name" : "Verify Logo presence on Home Page",
+  "time" : {
+    "start" : 1649229925412,
+    "stop" : 1649229925517,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "58c932accf404cdc",
+  "name" : "Verify login",
+  "time" : {
+    "start" : 1649229925618,
+    "stop" : 1649229926525,
+    "duration" : 907
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "e3e8062841b61a71",
+  "name" : "Verify user Registration",
+  "time" : {
+    "start" : 1649229926532,
+    "stop" : 1649229926532,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

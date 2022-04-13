@@ -1,0 +1,233 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-3R73L8V",
+    "children" : [ {
+      "name" : "19044@DESKTOP-3R73L8V.main(1)",
+      "children" : [ {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "4d02856d722370f",
+        "parentUid" : "2effc8510e476455259a7f1280631fa5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574586384942,
+          "stop" : 1574586385202,
+          "duration" : 260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "b3c21b3c76ef056d",
+        "parentUid" : "2effc8510e476455259a7f1280631fa5",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1574586394088,
+          "stop" : 1574586394090,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "938e13c1f74d81dd",
+        "parentUid" : "2effc8510e476455259a7f1280631fa5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574586385543,
+          "stop" : 1574586394055,
+          "duration" : 8512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2effc8510e476455259a7f1280631fa5"
+    } ],
+    "uid" : "568eaf4e8cdc165d7095cc8a957dd967"
+  }, {
+    "name" : "LAPTOP-KB7KK6RH",
+    "children" : [ {
+      "name" : "15732@LAPTOP-KB7KK6RH.main(1)",
+      "children" : [ {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "5ce5d00c2d300a2b",
+        "parentUid" : "3fc383e32ef3526a90d9c16c4418efa7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649229925412,
+          "stop" : 1649229925517,
+          "duration" : 105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "e3e8062841b61a71",
+        "parentUid" : "3fc383e32ef3526a90d9c16c4418efa7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1649229926532,
+          "stop" : 1649229926532,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "58c932accf404cdc",
+        "parentUid" : "3fc383e32ef3526a90d9c16c4418efa7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649229925618,
+          "stop" : 1649229926525,
+          "duration" : 907
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3fc383e32ef3526a90d9c16c4418efa7"
+    }, {
+      "name" : "812@LAPTOP-KB7KK6RH.main(1)",
+      "children" : [ {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "b85869f541de43f4",
+        "parentUid" : "079fa861a249f145d7d528a80976645f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649192202685,
+          "stop" : 1649192202845,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "fd3c16ea9b248908",
+        "parentUid" : "079fa861a249f145d7d528a80976645f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649192203065,
+          "stop" : 1649192205726,
+          "duration" : 2661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "6414792c9a50414b",
+        "parentUid" : "079fa861a249f145d7d528a80976645f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1649192205773,
+          "stop" : 1649192205788,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "079fa861a249f145d7d528a80976645f"
+    }, {
+      "name" : "2932@LAPTOP-KB7KK6RH.main(1)",
+      "children" : [ {
+        "name" : "Verify user Registration",
+        "uid" : "bfd70b46e9b39b23",
+        "parentUid" : "b252fba230909d6a8d98369217fc1980",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1649229840700,
+          "stop" : 1649229840700,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "37f9ab37cf493da4",
+        "parentUid" : "b252fba230909d6a8d98369217fc1980",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649229838479,
+          "stop" : 1649229840685,
+          "duration" : 2206
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "dadf1bb3e26ae2ab",
+        "parentUid" : "b252fba230909d6a8d98369217fc1980",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649229838246,
+          "stop" : 1649229838344,
+          "duration" : 98
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b252fba230909d6a8d98369217fc1980"
+    } ],
+    "uid" : "e4b30216eb41958481675218cddbc0fe"
+  } ]
+}
